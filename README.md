@@ -6,7 +6,7 @@ The top 10 tech companies in the last 20 years have changed over time due to shi
 3. **Amazon.com, Inc.** - Ticker Symbol: AMZN
 4. **Alphabet Inc. (formerly Google Inc.)** - Ticker Symbol: GOOG 
 5. **Cisco** - Ticker Symbol: CSCO
-6. **Tesla,Inc** - Ticker Symbol: BABA
+6. **Tesla,Inc** - Ticker Symbol: TSLA
 7. **AT&T Inc.** - Ticker Symbol: INTC
 8. **NVIDIA Corporation** - Ticker Symbol: NVDA
 9. **Cisco Systems, Inc.** - Ticker Symbol: CSCO
