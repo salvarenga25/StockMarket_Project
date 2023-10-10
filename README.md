@@ -3,7 +3,16 @@
 "Stock_Analysis(Closing_Prices)" will explore the closing prices of the top 10 tech companies.  "Stock_Analysis" will explore the earnings per share
 for the same tech companies.  
 
-Analysis
+## Installation
+***
+Installing MPL Finance 
+```
+$ pip install mplfinance
+$ pip install --upgrade mplfinance
+```
+
+
+## Analysis
 
 In the "Stock_Analysis(Closing_Prices)" notebook, a candlestick graph was used to analyze the stock prices of the 5 companies with the most interesting trends.
 
