@@ -1,5 +1,15 @@
 # StockMarket_Project
 
+"Stock_Analysis(Closing_Prices)" will explore the closing prices of the top 10 tech companies.  "Stock_Analysis" will explore the earnings per share
+for the same tech companies.  
+
+Analysis
+
+In the "Stock_Analysis(Closing_Prices)" notebook, a candlestick graph was used to analyze the stock prices of the 5 companies with the most interesting trends.
+
+
+
+
 The top 10 tech companies in the last 20 years have changed over time due to shifts in the tech industry. As of my last knowledge update in September 2021, I can provide you with the ticker symbols for some of the prominent tech companies that were influential during that period. Please note that the rankings and companies may have changed since then, so it's essential to verify the current status of these companies.
 1. **Apple Inc.** - Ticker Symbol: AAPL
 2. **Microsoft Corporation** - Ticker Symbol: MSFT
