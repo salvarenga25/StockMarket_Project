@@ -40,9 +40,9 @@ The top 10 tech companies in the last 20 years have changed over time due to shi
 
 # References: 
 
-1. [PyPi]https://pypi.org/project/mpl-finance/
-2. [Kaggle]https://www.kaggle.com/datasets/paultimothymooney/stock-market-data
-3. https://www.macrotrends.net/
+1. [PyPi](https://pypi.org/project/mpl-finance/)
+2. [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/stock-market-data)
+3. [MacroTrends](https://www.macrotrends.net/)
 
 
 
