@@ -33,18 +33,32 @@ In the "Stock_Analysis(Closing_Prices)" notebook, a candlestick graph was used t
 
 ![image](https://github.com/salvarenga25/StockMarket_Project/assets/141674216/5cd9aaeb-0fdd-4735-9eea-af43cc3ed4d9)
 
-
-
-
+## Project Introduction
 ![image](https://github.com/salvarenga25/StockMarket_Project/assets/141674216/dad07273-9c66-4e20-8898-f214a37a2132)
 
 
+
+## Raw Data
 ![image](https://github.com/salvarenga25/StockMarket_Project/assets/141674216/475a5161-924e-4a51-b432-069a5068243c)
 
 
+## Stastical Summary of the data
+
+![image](https://github.com/salvarenga25/StockMarket_Project/assets/141674216/9a066521-247b-4ce6-ba71-eedc04897820)
+
+
+## Project Results: Correlation 
 
 ![image](https://github.com/salvarenga25/StockMarket_Project/assets/141674216/5ded5981-0c2a-4367-8d34-3a30b31e437f)
 
+
+## Project Results: Example of MPL Finance Application (AAPL Stock)
+
+![image](https://github.com/salvarenga25/StockMarket_Project/assets/141674216/6e7511c0-e63c-4733-9628-230b632b264e)
+
+## Conculusions 
+
+![image](https://github.com/salvarenga25/StockMarket_Project/assets/141674216/3b667ebb-a8fc-492b-9d89-6f34fd5ceb03)
 
 
 # References: 
